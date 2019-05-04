@@ -17,7 +17,7 @@
     <h1>Taylor's Homepage</h1>
     <nav>
       <ul>
-        <li><a href="index.php">Home</a></li>
+        <li><a href="home.php">Home</a></li>
       </ul>
     </nav>
   </header>
