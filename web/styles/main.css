@@ -6,7 +6,7 @@ html, * {
 }
 
 header {
-    background-color: #23CE6B;
+    background-color: #E27D60;
     margin: 0;
     font-family: Lora, serif;
     color: white;
@@ -20,7 +20,7 @@ header h1 {
 
 nav {
     display: inline-block;
-    margin-left: .5em;
+    margin-left: 1.5em;
 }
 
 header ul {
@@ -31,4 +31,8 @@ header a {
     text-decoration: none;
     color: white;
     font-size: 1.1em;
+}
+
+body {
+    background-color: #41b3a3;
 }
