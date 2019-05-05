@@ -1,19 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
 html, * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-
 header {
     background-color: #23CE6B;
     margin: 0;
+    font-family: Lora, serif;
     color: white;
     padding: .8em .4em
 }
 
 header h1 {
     display: inline-block;
+    font-size: 1.8em;
 }
 
 nav {
@@ -28,4 +30,5 @@ header ul {
 header a {
     text-decoration: none;
     color: white;
+    font-size: 1.1em;
 }
