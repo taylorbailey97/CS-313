@@ -6,10 +6,10 @@ html, * {
 }
 
 header {
-    background-color: #05638b;
+    background-color: #e7717d;
     margin: 0;
     font-family: Lora, serif;
-    color: #5cdb95;
+    color: #fff;
     padding: .8em .4em;
 }
 
@@ -29,10 +29,10 @@ header ul {
 
 header a {
     text-decoration: none;
-    color: #5cdb95;
+    color: #fff;
     font-size: 1.1em;
 }
 
 body {
-    background-color: #5cdb95;
+    background-color: #c2cad0;
 }
