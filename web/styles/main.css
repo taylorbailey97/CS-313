@@ -15,9 +15,12 @@ header h1 {
     display: inline-block;
 }
 
+nav {
+    display: inline-block;
+}
+
 header ul {
     list-style: none;
-    display: inline-block;
 }
 
 header a {
