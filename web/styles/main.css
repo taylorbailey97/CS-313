@@ -6,7 +6,7 @@ html, * {
 }
 
 header {
-    background-color: #E27D60;
+    background-color: transparent;
     margin: 0;
     font-family: Lora, serif;
     color: white;
@@ -34,5 +34,5 @@ header a {
 }
 
 body {
-    background-color: #41b3a3;
+    background-color: #5cdb95;
 }
