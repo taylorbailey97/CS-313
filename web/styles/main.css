@@ -6,9 +6,10 @@ html, * {
 
 
 header {
-    background-color: darkblue;
+    background-color: #23CE6B;
     margin: 0;
     color: white;
+    padding: .8em .4em
 }
 
 header h1 {
@@ -17,6 +18,7 @@ header h1 {
 
 nav {
     display: inline-block;
+    margin-left: .5em;
 }
 
 header ul {
