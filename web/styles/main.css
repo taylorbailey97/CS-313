@@ -6,7 +6,11 @@ html, * {
 }
 
 header {
-    background-color: #e7717d;
+    background: linear-gradient(rgba(255, 255, 255, 1),url('../images/bg-masthead.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
     margin: 0;
     font-family: Lora, serif;
     color: #fff;
