@@ -1,1 +1,1 @@
-<?php require '../../homepage/dist/homepage/index.html' ?>
+<?php require '../homepage/dist/homepage/index.html' ?>
