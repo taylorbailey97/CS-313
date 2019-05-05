@@ -7,17 +7,9 @@
   <title>Document</title>
 </head>
 <body>
-  <header>
-    <h1>Taylor's Homepage</h1>
-    <nav>
-      <ul>
-        <li><a href="index.php">Home</a></li>
-      </ul>
-    </nav>
-  </header>
+  <?php require './header.php'; ?>
   <main>
     <h3>welcome to my homepage!</h3>
-    <img src="./images/photo.JPG" alt="Taylor Bailey">
     <p>
       I study at Brigham Young University - Idaho, I am a software engineer with a focus on full stack development.
       In my educational career I have learned to write professional code, present myself in both a technical and professional setting,
@@ -27,6 +19,7 @@
       eventually, looking up h  ow to learn to code on my own. It wasn't until college that I found a true passion for software development,
       more specifically web development.
     </p>
+    <img src="./images/photo.JPG" alt="Taylor Bailey">
   </main>
 </body>
 </html>
