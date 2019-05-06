@@ -9,7 +9,3 @@
   </nav>
 </header>
 
-<div class="mast">
-  <img src="../../assets/images/Me.jpg" alt="Taylor (Me)">
-  <h2>Taylor Bailey</h2>
-</div>
