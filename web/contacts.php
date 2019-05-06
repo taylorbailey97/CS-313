@@ -12,8 +12,20 @@
 
 <body>
     <?php require './header.php'; ?>
+    <main>
+        <form action="/submitContact.php" method="post">
+            <label for="name">Name: </label>
+            <input type="text" name="name" required>
 
+            <label for="email">Email: </label>
+            <input type="email" name="email" required>
 
+            <label for="comment">Message: </label>
+            <textarea name="comment" form="usrform">Enter text here...</textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+    </main>
     <?php require './footer.php'; ?>
 </body>
 
