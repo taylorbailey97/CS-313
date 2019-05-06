@@ -17,7 +17,7 @@
   <body>
     <?php require './header.php'; ?>
     <div class="mast">
-      <img src="./images/Me.JPG" alt="Taylor (Me)" />
+      <img src="./images/Me.jpg" alt="Taylor (Me)" />
       <h2>Taylor Bailey</h2>
     </div>
     <main>
