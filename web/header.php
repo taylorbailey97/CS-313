@@ -4,13 +4,13 @@
   $about = false;
   $login = false;
   switch ($url) {
-      case '/home.php':
+      case '/index.php':
           $home = true;
           break;
-      case '/about-us.php':
+      case '/about.php':
           $about = true;
           break;
-      case '/login.php':
+      case '/contacts.php':
           $login = true;
           break;
       default:
